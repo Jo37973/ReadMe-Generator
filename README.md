@@ -70,7 +70,7 @@
 
   ## Images
 
-  *
+  * (none)
 
   
   ## Contributing
