@@ -2,7 +2,7 @@
   
   ## Application Description
 
-  Create a README.md file based on user input
+  Create a readme file
 
   ## Table of Contents
 
@@ -30,7 +30,7 @@
 
   ## User Story
 
-  The user will install the README by doing the following: bash, node index.js, and npm i 
+  Bash, node index.js
 
   ## Tests
 

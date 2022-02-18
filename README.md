@@ -66,7 +66,8 @@
   ## Links
   * GitHub Repository Link: https://github.com/Jo37973/ReadMe-Generator
 
-  * Video Link:
+  * Video Link: https://drive.google.com/file/d/1BXVaLLtbAkLlM5W3wsu9z9sbkDRNBE8k/view
+  * Video Link: https://youtu.be/R_2LK_jYjvc
 
   ## Images
 
