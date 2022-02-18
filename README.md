@@ -64,7 +64,7 @@
 * View more work from this developer at [Jo37973](https://github.com/Jo37973/)
 
   ## Links
-  * GitHub Repository Link:
+  * GitHub Repository Link: https://github.com/Jo37973/ReadMe-Generator
 
   * Video Link:
 
