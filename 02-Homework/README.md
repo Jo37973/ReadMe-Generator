@@ -1,3 +1,87 @@
+# ReadMe Generator
+  
+  ## Description
+
+  This command-line Application will dynamically create a ReadMe.md file based on the user input that will include  title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
+
+  ## Table of Contents
+
+  * [Installation](#install)
+
+  * [User Story](#userStory)
+
+  * [Usage](#usage)
+
+  * [License](#license)
+
+  * [Tests](#tests)
+
+  * [Questions](#questions)
+
+  * [Links](#links)
+
+  * [Images](#images)
+
+  * [Contributing](#contributing)
+
+
+  ## Installation
+
+  Run the following commands to install:
+
+  ```
+  bash
+  node index.js
+  npm i
+  ```
+
+  ## User Story
+
+  AS A developer
+  I WANT a README generator
+  SO THAT I can quickly create a professional README for a new project
+
+  ## Usage
+
+  * Generate a README file
+
+  ## License
+
+  * This project is licensed under the MIT license.
+
+  ## Tests
+
+  *  Run any applicable tests using the commands below:
+
+  ```
+  none
+  ```
+
+  ## Questions
+
+* Any questions regarding this repo can be directed to Joanna Pastcan at timelessmoment05@gmail.com.
+  
+* View more work from this developer at [Jo37973](https://github.com/Jo37973/)
+
+  ## Links
+  * GitHub Repository Link:
+
+  * Video Link:
+
+  ## Images
+
+  *
+
+  
+  ## Contributing
+
+  * Joanna Pastcan
+  * UCI Coding Bootcamp README: © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+
+
+
+# README Generator Homework
+
 # 09 Node.js Homework: Professional README Generator
 
 ## Your Task
