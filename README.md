@@ -30,9 +30,10 @@
   Run the following commands to install:
 
   ```
-  bash
+  open VSC (visual studio code)
+  bash - integrated terminal
   node index.js
-  npm i
+  answer the README prompts
   ```
 
   ## User Story
